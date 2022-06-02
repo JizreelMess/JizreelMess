@@ -27,7 +27,9 @@
 <img  align="center" height="40" width="40" alt="icon-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  
 <img align="center" height="40" width="40" alt="icon-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-           
+    
+<img align="center" height="40" width="40" alt="icon-Node.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+  
  </div>
  
  ## 
