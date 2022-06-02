@@ -8,7 +8,9 @@
 <div>
  <a href="https://github.com/JizreelMess">
    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JizreelMess&langs_count=5&theme=blueberry"/>
-  <br>
+  
+  ## Repositorios Favoritos
+
    <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Pets-Proprietaire&theme=blueberry"/>
 </div>
  
