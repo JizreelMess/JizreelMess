@@ -1,9 +1,12 @@
 ### Hi there 👋
+📚 Estudante de Análise e Desenvolvimento de Sistemas no Senac/SP.
 
+<div>
+ <a href="https://github.com/JizreelMess">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JizreelMess&langs_count=8"/>
+</div>
 <!--
-**JizreelMess/JizreelMess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
