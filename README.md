@@ -1,8 +1,10 @@
- ## Oi!!! Eu sou o Jizreel Messias ⚡
+ ## Oi, Eu sou o Jizreel Messias ⚡
  
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas no Senac/SP.
 - 🌱 Estudando: React.js.
 - 🗺️ São Paulo.
+-  
+- 
 
 <br>
 <div>
@@ -12,6 +14,7 @@
   ## Repositorios Favoritos
 
    <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Pets-Proprietaire&theme=blueberry"/>
+   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Ilhadacaveira&theme=blueberry"/>
 </div>
  
 
