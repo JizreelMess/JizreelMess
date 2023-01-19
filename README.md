@@ -11,9 +11,9 @@
   
   ## Repositorios Favoritos
 
-   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Pets-Proprietaire&theme=blueberry"/>
-   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Ilhadacaveira&theme=blueberry"/>
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Prototipo-PII&theme=blueberry"/>
+   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Pets-Proprietaire&theme=lightblue"/>
+   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Ilhadacaveira&theme=lightblue"/>
+  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Prototipo-PII&theme=lightblue"/>
 </div>
  
 
