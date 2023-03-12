@@ -7,13 +7,13 @@
 <br>
 <div>
  <a href="https://github.com/JizreelMess">
-   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JizreelMess&langs_count=8&theme=blueberry"/>
+   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JizreelMess&langs_count=8&theme=tokyonight"/>
   
   ## Repositorios Favoritos
 
-   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Pets-Proprietaire&theme=lightblue"/>
-   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Ilhadacaveira&theme=lightblue"/>
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Prototipo-PII&theme=lightblue"/>
+   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Pets-Proprietaire&theme=tokyonight"/>
+   <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Ilhadacaveira&theme=tokyonight"/>
+  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=JizreelMess&repo=Prototipo-PII&theme=tokyonight"/>
 </div>
  
 
@@ -41,9 +41,9 @@
  ## 
  
  <div>
-  <a href="https://github.com/JizreelMess"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <a href="https://github.com/JizreelMess"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/jizreel-messias-9b4176138/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  </div>
 
 
