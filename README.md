@@ -7,7 +7,7 @@
 <br>
 <div>
  <a href="https://github.com/JizreelMess">
-   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JizreelMess&langs_count=8&theme=tokyonight"/>
+   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JizreelMess&&hide_progress=true&langs_count=8&theme=tokyonight"/>
    <img  src="https://github-readme-stats.vercel.app/api?username=JizreelMess&show_icons=true&count_private=true&theme=tokyonight">
   
   ## Repositorios Favoritos
