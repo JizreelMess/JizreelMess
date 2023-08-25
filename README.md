@@ -1,7 +1,7 @@
  ## Oi, Eu sou o Jizreel Messias ⚡
  
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas no Senac/SP.
-- 🌱 Estudando: React.js.
+- 🌱 Estudando: React.js e Kotlin.
 - 🗺️ São Paulo.
 
 <br>
