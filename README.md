@@ -29,6 +29,7 @@
  <img  align="center" height="40" width="40" alt="icon-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  <img align="center" height="40" width="40" alt="icon-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" height="40" width="40" alt="icon-Node.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+  <img align="center" height="40" width="40" alt="icon-Kotlin" src="https://camo.githubusercontent.com/b4dc9e481a1e4ac6ab77629e86a1cebd4561902a9b2d41d281704060929257f0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30362f4b6f746c696e5f49636f6e2e7376672f35313270782d4b6f746c696e5f49636f6e2e7376672e706e67"/>
   
  </div>
  
